@@ -1,4 +1,5 @@
 #!/usr/bin/ruby
+#This is Row CDR Madiator which will try to look call legs up and generating Call-CDR
 require 'rubygems'
 require 'mongo'
 require 'bson'

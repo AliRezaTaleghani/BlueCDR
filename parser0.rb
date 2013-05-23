@@ -1,4 +1,5 @@
 #!/usr/bin/ruby
+#This is Row CDR importer module which parse Teles Row CDR purly and push them into DB
 require 'rubygems'
 require 'mongo'
 require 'bson'
